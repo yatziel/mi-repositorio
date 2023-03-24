@@ -1,2 +1,2 @@
-# Mi repositorio en GitHub
-Probrando GitHub para un curso
+# Mi Repositorio en GitHub
+Probrando GitHub para el curso de FreeCodeCamp
